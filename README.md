@@ -2,7 +2,7 @@
 
 **Rentzy** is a hyperlocal platform where users can rent items or hire services for an hour, a day, or a week. From gadgets and furniture to short-term help like maids or tutors, Rentzy connects people who need things with those who have them.
 
-> **Slogan:** Don't buy it. Just rent it.
+.
 
 ## 🚀 Features
 - Rent or post products & services
